@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactRouterDOMBootstrap/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ReactRouterDOMBootstrap/static/js/main.0171f871.chunk.js",
+    "main.js.map": "/ReactRouterDOMBootstrap/static/js/main.0171f871.chunk.js.map",
+    "runtime-main.js": "/ReactRouterDOMBootstrap/static/js/runtime-main.cfdfebd5.js",
+    "runtime-main.js.map": "/ReactRouterDOMBootstrap/static/js/runtime-main.cfdfebd5.js.map",
+    "static/css/2.11829350.chunk.css": "/ReactRouterDOMBootstrap/static/css/2.11829350.chunk.css",
+    "static/js/2.76de1e55.chunk.js": "/ReactRouterDOMBootstrap/static/js/2.76de1e55.chunk.js",
+    "static/js/2.76de1e55.chunk.js.map": "/ReactRouterDOMBootstrap/static/js/2.76de1e55.chunk.js.map",
+    "index.html": "/ReactRouterDOMBootstrap/index.html",
+    "precache-manifest.0f91c24a87f6dee2e171cd290382ea11.js": "/ReactRouterDOMBootstrap/precache-manifest.0f91c24a87f6dee2e171cd290382ea11.js",
+    "service-worker.js": "/ReactRouterDOMBootstrap/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/ReactRouterDOMBootstrap/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ReactRouterDOMBootstrap/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.76de1e55.chunk.js.LICENSE.txt": "/ReactRouterDOMBootstrap/static/js/2.76de1e55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfdfebd5.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.76de1e55.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.0171f871.chunk.js"
+  ]
+}
