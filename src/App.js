@@ -11,7 +11,7 @@ import Action from './pages/Action';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Navigation />
       <Switch>
         <Route exact path="/" component={Home} />
